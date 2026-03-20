@@ -6,7 +6,7 @@ Hi there 👋
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I was part of De La Salle Zobel Animo Squad during my Senior Highschool days and I also joined De La Salle University Animno Squad in College.
+⚡ Fun fact: I was part of De La Salle Zobel Animo Squad during my Senior Highschool days and I also joined De La Salle University Animno Squad in college.
 
 <!-- Don't know what to put yet on my personal README.md so this will suffice for now hehe -->
 
