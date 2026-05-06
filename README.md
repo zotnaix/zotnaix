@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 I’m currently learning more about web development, both in the frontend and backend.
+🌱 I’m interested and currently learning more about web development and cybersecurity.
 
 📫 How to reach me: santoscianmarlo@gmail.com
 
