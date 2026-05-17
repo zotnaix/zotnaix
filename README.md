@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 I’m interested and currently learning more about web development and cybersecurity.
+🌱 I’m interested and currently learning more about web development and cybersecurity. My current personal project right now is Project Vanguard which is a fitness tracker that includes daily weight management, food diary, exercise diary and fasting timer.
 
 📫 How to reach me: santoscianmarlo@gmail.com
 
